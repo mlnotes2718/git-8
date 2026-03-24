@@ -282,3 +282,4 @@ $RECYCLE.BIN/
 gitleaks_report.csv
 
 # git-Intro tutorial, place the secret json file after this comment
+secrets.json
